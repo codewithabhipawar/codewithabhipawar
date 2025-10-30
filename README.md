@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Abhishek Pawar]!
 
-<!--
-**codewithabhipawar/codewithabhipawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | Java Backend Specialist | Problem Solver**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I’m a passionate **Full Stack Developer** with strong expertise in **Core Java, Spring Boot, Microservices, and Cloud-native development**.  
+I enjoy building scalable backend systems, crafting intuitive UIs, and solving complex problems through clean and efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 💻 I build **robust, maintainable, and scalable applications** using Java and modern web technologies.  
+- ⚙️ Experienced in **microservices architecture**, **RESTful APIs**, and **database design**.  
+- 🔍 Focused on writing **clean, testable, and optimized code**.  
+- 📚 Constantly learning and exploring new tools, frameworks, and best practices in software development.  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💡 Backend
+- **Core Java**, **Spring Boot**, **Hibernate with JPA**, **Servlets & JSP**, **JDBC**
+- **Microservices**, **REST APIs**
+
+### 🎨 Frontend
+- **HTML5**, **CSS3**, **JavaScript (ES6+)**
+
+### 🗄️ Databases
+- **MySQL**, **PostgreSQL**
+
+### 🧰 DevOps & Tools
+- **Git**, **GitHub**, **Docker**, **Kubernetes**, **Jenkins**
+
+### 🧩 CS Fundamentals
+- **Data Structures & Algorithms**
+- **Problem Solving**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧩 Projects
+
+Here are a few projects that showcase my skills:
+
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| 🏦 **Bank Management System** | A full-stack app for managing bank accounts, transactions, and users. | Java, Spring Boot, MySQL, HTML, CSS |
+| 🛒 **E-Commerce Application** | REST API for managing products, carts, and orders. | Spring Boot, Hibernate, PostgreSQL |
+| 📘 **Student Management System** | Web app to manage student records. | JSP, Servlets, JDBC, MySQL |
+| ☁️ **Microservice-based App** | Distributed service architecture with API Gateway and Eureka. | Spring Boot, Docker, Kubernetes |
+
+---
+
+## 📬 Let's Connect!
+
+<p align="center">
+  <a href="mailto:ap7218362896@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
+
+Thanks for visiting! Have a great day! 😊
