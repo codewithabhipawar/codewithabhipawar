@@ -20,7 +20,7 @@ I enjoy building scalable backend systems, crafting intuitive UIs, and solving c
 ## 🛠️ Tech Stack
 
 ### 💡 Backend
-- **Core Java**, **Spring Boot**, **Hibernate with JPA**, **Servlets & JSP**, **JDBC**
+- **Core Java**, **Spring Boot**, **Spring MVC**,**Hibernate with JPA**, **Servlets & JSP**, **JDBC**
 - **Microservices**, **REST APIs**
 
 ### 🎨 Frontend
